@@ -1,19 +1,9 @@
 {
     "compilerOptions": {
         "module": "commonjs",
-        "noImplicitAny": true,
-        "sourceMap": true,
-        "target": "ESNEXT",
-        "typeRoots": [
-            "../../typings",
-            "../../node_modules/@types"
-        ]
+        "noImplicitAny": false
     },
     "lib": [
-            "es2016"
-    ],
-    "exclude": [
-        "../../node_modules",
-        "../../typings"
+            "es6"
     ]
 }
