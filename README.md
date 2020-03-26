@@ -20,4 +20,4 @@ In short, I need a **javascript** editor and not a botched up typescript interpr
 Ideally there'd be a setting on how to interpret the files, or it interpreting things via the presence of a tsconfig.json or not. But right now this is a major annoyance as it is not a valid error in a javascript context.
 
 ------
-
+This github is made in relation to this issue: https://github.com/eclipse/wildwebdeveloper/issues/393
